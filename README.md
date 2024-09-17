@@ -4,3 +4,5 @@ This was a university project aimed at investigating high performance computing 
 solution tested on a single compute node. The second section implements a distributed-parallel revision of the same program using the [MPI API](https://www.open-mpi.org/).
 - [Vectorized-parallel report](../main/parallel/report.pdf)
 - [Distributed-parallel report](../main/distributed/report.pdf)
+
+![final_state](https://github.com/user-attachments/assets/f9792388-df5f-4540-9c7f-2f7bcd27b2d5)
